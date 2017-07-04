@@ -11,6 +11,7 @@
 - Follow the instructions on the website: https://taming-the-beast.github.io/contribute/Contributing-a-new-tutorial/
 - Tutorials should work in BEAST 2.4.6
 
+---
 
 ## Tutorials that need to be improved
 - Population structure using the multitype birth-death model
@@ -22,6 +23,7 @@
 	- Check and update bdskytools R package
 	- Improve the text
 
+---
 
 ## Tutorials that need to be checked
 - Introduction to BEAST 2
@@ -41,7 +43,7 @@
 - Add anything that you think is necessary for the tutorial
 
 
-
+---
 
 ## Tutorials that have no markdown version (not essential)
 - FBD tutorial
@@ -52,7 +54,7 @@
 - Get (buggy and incomplete) script from Louis to convert tex to md
 - Hack what wasn't converted properly using the style guide: https://taming-the-beast.github.io/contribute/Style/
 
-
+---
 
 ## Website todo list
 
