@@ -6,7 +6,7 @@
 - Transmission tree inference in BEAST2 with SCOTTI
 - Stochastic simulations in BEAST2 with MASTER
 
-### Creating a new tutorial
+### How to create a new tutorial
 - Create the tutorial in either LaTeX or Markdown. 
 - Follow the instructions on the website: https://taming-the-beast.github.io/contribute/Contributing-a-new-tutorial/
 - Tutorials should work in BEAST 2.4.6
@@ -34,7 +34,7 @@
 - Bacter tutorial
 - Troubleshooting
 
-### Checking tutorials
+### How to check a tutorial
 - Install BEAST 2.4.6
 - Run through the tutorial and check that everything runs as expected
 - If there are any mistakes please correct them!
