@@ -25,17 +25,20 @@
 
 ---
 
-## Tutorials that need to be checked
+## Tutorials that need to be checked 
+
+In order of checking:
 - Introduction to BEAST 2
 - Prior selection and clock calibration
 - Substitution model selection
-- Skyline plots
 - FBD tutorial
 - Bacter tutorial
 - Troubleshooting
+- Skyline plots
+
 
 ### How to check a tutorial
-- Install BEAST 2.4.6
+- Install BEAST 2.4.7 pre-release
 - Run through the tutorial and check that everything runs as expected
 - If there are any mistakes please correct them!
 - Make notes of figures that need to be updated because of changes in Beauti (please take a screenshot of the figure if possible).
@@ -58,10 +61,13 @@
 
 ## Website todo list
 
-- Update programme for London
+- ~~Update programme for London~~
+- Finalise London programme and add links for all tutorials
+- Add paper link and citation to the website
 - Update contribute help (lower priority)
 - Update frontpage
 - Remove statistics from tutorial sidebar
+- Add RSS feed for new tutorials
 - Check tutorial names are displayed correctly everywhere (also in recently updated tutorials). There were issues when the tutorial name and the github repository were not the same.
 - Header and footer do not rescale properly when the site is resized, and does not display properly on mobile devices (low priority)
 - Floating header/footer (only appears on scrolling, disappears otherwise) (low priority)
