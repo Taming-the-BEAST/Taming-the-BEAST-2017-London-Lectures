@@ -4,7 +4,7 @@
 ## Tutorials that need to be made from scratch
 - Structured coalescent approximations in BEAST2
 - Transmission tree inference in BEAST2 with SCOTTI
-- Stochastic simulations in BEAST2 with MASTER
+- Stochastic simulations in BEAST2 with MASTER **(Probably not necessary anymore)**
 
 ### How to create a new tutorial
 - Create the tutorial in either LaTeX or Markdown. 
@@ -14,7 +14,7 @@
 ---
 
 ## Tutorials that need to be improved
-- Population structure using the multitype birth-death model
+- Structured birth-death model
 	- Check that it still works with the new version of BDMM
 	- Change substitution model to HKY+Gamma and estimate shape parameter
 	- Add better intuition on priors
@@ -27,14 +27,18 @@
 
 ## Tutorials that need to be checked 
 
-In order of checking:
 - Introduction to BEAST 2
 - ~~Prior selection and clock calibration~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
 - ~~Substitution model selection:~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
 - FBD tutorial (Tracy checked recently in BEAST 2.4.6)
 - ~~Bacter tutorial~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
-- Troubleshooting
+- ~~Troubleshooting~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
+- Species trees with relaxed molecular clocks
+- Calibrated species trees
 - Skyline plots
+- Structured birth-death model
+- Structured coalescent approximations
+- SCOTTI tutorial
 
 
 ### How to check a tutorial
@@ -50,7 +54,8 @@ In order of checking:
 
 ## Tutorials that have no markdown version (not essential)
 - FBD tutorial
-- Starbeast2 tutorials
+- Species trees with relaxed molecular clocks
+- Calibrated species trees **(markdown version ~95% complete)**
 
 ### How to create markdown tutorial from LaTeX
 - Install a local copy of the website: https://taming-the-beast.github.io/contribute/Building-a-local-copy-of-the-site/
