@@ -29,7 +29,7 @@
 
 In order of checking:
 - Introduction to BEAST 2
-- Prior selection and clock calibration
+- ~~Prior selection and clock calibration~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
 - ~~Substitution model selection:~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
 - FBD tutorial (Tracy checked recently in BEAST 2.4.6)
 - ~~Bacter tutorial~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
