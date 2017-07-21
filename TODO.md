@@ -2,8 +2,8 @@
 
 
 ## Tutorials that need to be made from scratch
-- Structured coalescent approximations in BEAST2
-- Transmission tree inference in BEAST2 with SCOTTI
+- ~~Structured coalescent approximations in BEAST2~~ **(Nicola M.)**
+- ~~Transmission tree inference in BEAST2 with SCOTTI~~ **(Louis)**
 - Stochastic simulations in BEAST2 with MASTER **(Probably not necessary anymore)**
 
 ### How to create a new tutorial
@@ -14,11 +14,7 @@
 ---
 
 ## Tutorials that need to be improved
-- Structured birth-death model
-	- Check that it still works with the new version of BDMM
-	- Change substitution model to HKY+Gamma and estimate shape parameter
-	- Add better intuition on priors
-	- Add explanation for setting matrices and interpreting the results with more than 2 demes
+- ~~Structured birth-death model~~ **(Julija)**
 - Skyline plots (low priority)
 	- Check and update bdskytools R package
 	- Improve the text
@@ -27,17 +23,17 @@
 
 ## Tutorials that need to be checked 
 
-- Introduction to BEAST 2
+- Introduction to BEAST 2 (Stéphane was checking, no feedback yet)
 - ~~Prior selection and clock calibration~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
 - ~~Substitution model selection:~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
-- FBD tutorial (Tracy checked recently in BEAST 2.4.6)
+- FBD tutorial (Tracy checked recently in BEAST 2.4.6) 
 - ~~Bacter tutorial~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
 - ~~Troubleshooting~~ **Checked in BEAST 2.4.7 pre-release (Louis)**
-- Species trees with relaxed molecular clocks
-- Calibrated species trees
-- Skyline plots
+- ~~Species trees with relaxed molecular clocks ~~ **Checked in BEAST 2.4.7 pre-release (Walter)**
+- ~~Calibrated species trees~~ **Checked in BEAST 2.4.7 pre-release (Walter)**
+- Skyline plots (Stéphane was checking, no feedback yet)
 - Structured birth-death model
-- Structured coalescent approximations
+- MASCOT tutorial
 - SCOTTI tutorial
 
 
