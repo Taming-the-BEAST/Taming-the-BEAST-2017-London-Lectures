@@ -1,0 +1,1 @@
+Alexei Drummond's talk on skylines is available here: https://github.com/Taming-the-BEAST/Taming-the-BEAST-2016-Engelberg-Lectures/blob/master/2016_06_28_Tuesday_08h30_Coalescent_and_skyline_plot.pdf

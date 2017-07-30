@@ -1,0 +1,1 @@
+The lecture on setting priors and initial values is available here: https://github.com/Taming-the-BEAST/Taming-the-BEAST-2016-Engelberg-Lectures/blob/master/2016_06_28_Tuesday_14h00_SettingPriors.pdf
